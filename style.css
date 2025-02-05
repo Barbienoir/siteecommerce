@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *{
     margin: 0;
     padding: 0;}
@@ -204,7 +204,7 @@ p{
 #trois{
     text-decoration: underline;
 }
-=======
+
 body{
     width: 100%;
     height: auto;
@@ -214,10 +214,9 @@ body{
     width: 100%; 
     height: 40px; 
     background-color: #FFBE9F; 
-    display: flex; 
-    text-align: center; 
+    display: flex;  
     justify-content: center;
-     justify-items: center;
+     align-items: center;
 }
 .head p{
     text-align: center;
@@ -266,6 +265,9 @@ nav li{
         justify-content: center;
         
        
+    }
+    .tof-anima1 img{
+        width: 100%;
     }
     .b-shop{
         width: 150px;
@@ -419,4 +421,4 @@ nav li{
         height: 700px;
         margin-top: 1500px;
     }
->>>>>>> 24ea3082c8d2096db8c5e96d9c918254ed838ac2
+
